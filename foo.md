@@ -1,1 +1,3 @@
-This is foo
+This is foo.
+
+Go to [bar](bar.md)
